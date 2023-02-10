@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NJ2046
-- 👀 I’m interested in code, sport, eat
+- 👀 I’m interested in code, drink, eat
 - 🌱 I’m currently learning live
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 765115556@qq.com
